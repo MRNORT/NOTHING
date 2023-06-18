@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Nothing Hehe</title>
+  <title>Nothing</title>
   <style>
     body {
       height: 100vh;
@@ -43,7 +43,7 @@
 </head>
 <body>
   <div class="container">
-    <h1 class="text">NOTHING HEHE</h1>
+    <h1 class="text">NOTHING</h1>
   </div>
 </body>
 </html>
